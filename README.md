@@ -4,6 +4,8 @@
 
 Made at the request of Sé Reed on [WP Watercooler EP386](https://www.youtube.com/watch?v=zDxX5NW7a_4), a weekly WordPress podcast.
 
+![screenshot](/screenshot.png)
+
 ## Installation
 
 1. Download the ZIP.
