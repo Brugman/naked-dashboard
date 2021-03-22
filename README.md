@@ -15,7 +15,7 @@ or
 
 ```sh
 cd /wp-content/plugins/
-git clone https://github.com/Brugman/we-use-cookies.git
+git clone https://github.com/Brugman/naked-dashboard.git
 ```
 
 ## Update
@@ -26,7 +26,7 @@ git clone https://github.com/Brugman/we-use-cookies.git
 or
 
 ```sh
-cd /wp-content/plugins/we-use-cookies/
+cd /wp-content/plugins/naked-dashboard/
 git pull
 ```
 
